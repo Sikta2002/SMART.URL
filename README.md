@@ -3,10 +3,11 @@
 <p>Website: <a href="https://sikta2002.github.io/SMART.URL/">Click here</a></p>
 
 <div align="center">
-<img src="Screenshot.jpeg" width="500">
+<img src="Screenshot.jpeg" width="600" height="400">
 </div>
 
 <h2>Overview</h2>
+
 - SMART.URL is a URL shortening API landing page, integrated with the <a href="https://shrtco.de/">shrtcode</a> URL shortening API.
 - Uses browser storage which helps users see a list of their shortened links, even after refreshing the browser.
 
