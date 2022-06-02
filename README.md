@@ -3,7 +3,7 @@
 <p>Website: <a href="https://sikta2002.github.io/SMART.URL/">Click here</a></p>
 
 <div align="center">
-<img src="Screenshot.jpeg" width="600" height="400">
+<img src="Screenshot.jpeg" width="800" height="400">
 </div>
 
 <h2>Overview</h2>
